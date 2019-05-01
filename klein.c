@@ -3,7 +3,7 @@
 
 int main(){
 
-puts("Hallo");
+puts("Hallo World");
 
 return 0;
 
